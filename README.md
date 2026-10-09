@@ -20,10 +20,11 @@
 
 ### 🚀 What I'm Up To
 
-- 🔭 **Currently Building:** Production-ready AI models & LLM pipelines
+- 🔭 **Currently Working On:** AI models, machine learning pipelines, and intelligent software systems
 - 🌱 **Currently Learning:** Advanced MLOps, Model Optimization, and Distributed Computing
+- 💼 **Open To:** AI/ML engineering roles, data science collaborations, and open-source contributions
 - 💬 **Ask Me About:** Python, Data Science workflows, Deep Learning, and System Architecture
-- 📫 **How to reach me:** `YOUR-EMAIL@gmail.com`
+- 📫 **Contact:** `YOUR-EMAIL@gmail.com`
 
 ---
 
@@ -53,7 +54,7 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=michaelmwangi8972-oss&show_icons=true&theme=dracula&hide_border=true" alt="Mike's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmwangi8972-oss&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmwangi8972-oss&layout=compact&theme=dracula&hide_border=true&hide=html" alt="Top Languages" />
 </p>
 
 ---
