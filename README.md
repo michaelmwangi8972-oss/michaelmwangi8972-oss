@@ -58,13 +58,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-- 🤖 **[Project Name](https://github.com/michaelmwangi8972-oss/project-repo)** — An end-to-end Machine Learning pipeline for real-time predictions. Built with PyTorch and FastAPI.
-- ⚡ **[Project Name](https://github.com/michaelmwangi8972-oss/project-repo)** — Scalable data processing library optimizing ETL workflows across large datasets.
-
----
-
 <p align="center">
   <i>Building thoughtful, data-driven solutions — one commit at a time.</i>
 </p>
