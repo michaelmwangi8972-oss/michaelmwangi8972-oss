@@ -1,114 +1,114 @@
-# 👋 Hey, I'm Mike Mwangi
-
+<!-- Black / cyan visual system: near-black surfaces, cyan text, restrained violet accents. -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Data+Science+%26+Analytics+Student;Python+Developer+in+Progress;Building+Projects+That+Solve+Real+Problems;Learning.+Building.+Improving." alt="Typing introduction" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=210&section=header&text=MIKE%20MWANGI&fontSize=48&fontColor=38BDF8&fontAlignY=40&animation=fadeIn&desc=DATA%20SCIENCE%20%7C%20SOFTWARE%20DEVELOPMENT&descSize=16&descAlignY=66&descColor=C4B5FD" alt="Mike Mwangi — Data Science and Software Development" />
 </p>
 
 <p align="center">
-  <b>Data Science & Analytics Student @ JKUAT</b>
-  <br>
-  Exploring software development, data, and artificial intelligence.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+Student;Python+%7C+Flask+%7C+Web+Development;Building+useful+projects+from+real+problems;Learning.+Building.+Improving." alt="Typing introduction" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Currently%20Learning-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Science-In%20Progress-0EA5E9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to-Learning%20%26%20Building-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/JKUAT-Data%20Science%20%26%20Analytics-050505?style=for-the-badge&labelColor=050505&color=38BDF8" alt="JKUAT Data Science and Analytics" />
+  <img src="https://img.shields.io/badge/STATUS-Learning%20%2F%20Building-050505?style=for-the-badge&labelColor=050505&color=8B5CF6" alt="Learning and building" />
 </p>
 
 ---
 
-## 🚀 About Me
+## <span>01 / ABOUT ME</span>
 
-I'm a Data Science and Analytics student at **Jomo Kenyatta University of Agriculture and Technology (JKUAT)**, working towards becoming a skilled developer and data professional.
+I'm a **Data Science and Analytics student at Jomo Kenyatta University of Agriculture and Technology (JKUAT)**, building my skills in programming, data, and practical software development.
 
-I believe the best way to learn technology is to build real things, solve problems, and keep experimenting.
+I learn best by turning ideas into working projects, testing them, and improving them step by step.
 
-- 🐍 Strengthening my Python programming skills.
-- 📊 Exploring data science, analytics, and AI.
-- 🌐 Building web applications with Python and Flask.
-- 🛠️ Learning software development through practical projects.
-- 📚 Constantly improving my problem-solving skills.
+- **Python:** strengthening my fundamentals and problem-solving.
+- **Web development:** building with Flask, HTML, CSS, and JavaScript.
+- **Data & AI:** developing my foundation in analytics and artificial intelligence.
+- **Builder mindset:** interested in projects that solve real problems for real people.
 
-**My philosophy:** Learn the fundamentals. Build consistently. Make ideas useful.
+> **My approach:** Learn the fundamentals. Build consistently. Make ideas useful.
 
-## 🛠️ Technologies & Tools
+## <span>02 / TECH STACK</span>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-050505?style=for-the-badge&logo=flask&logoColor=38BDF8" alt="Flask" />
+  <img src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5&logoColor=38BDF8" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=38BDF8" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=FDE68A" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=38BDF8" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-050505?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8" alt="Visual Studio Code" />
 </p>
 
-*I'm continuously developing my skills and adding to this toolkit as I learn.*
+<p align="center"><sub>My toolkit is growing as I learn and ship more projects.</sub></p>
 
-## 🌟 Featured Project
+## <span>03 / FEATURED PROJECT</span>
 
-### 🔗 Gikondi Connect
+### Gikondi Connect
 
-A community platform built to help people stay connected, share opportunities, and communicate even when they're spread across different locations.
+A community platform I built to help people stay connected across different locations, discover opportunities, and communicate as a group.
 
-**Highlights**
-- 👥 Community connection and engagement.
-- 💼 Opportunities for members to discover.
-- 📞 Audio group calls and in-call chat.
-- 🌍 A practical project inspired by a real community need.
+- Community connection and engagement
+- Opportunity sharing
+- Audio group calls with in-call chat
+- Built around a real need in a dispersed community
 
-<p>
+<p align="center">
   <a href="https://gikondiconnect.pythonanywhere.com">
-    <img src="https://img.shields.io/badge/Explore%20Live%20Project-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Gikondi Connect" />
+    <img src="https://img.shields.io/badge/OPEN%20LIVE%20PROJECT-050505?style=for-the-badge&logo=googlechrome&logoColor=38BDF8&labelColor=050505&color=38BDF8" alt="Open Gikondi Connect live project" />
+  </a>
+  <a href="https://github.com/michaelmwangi8972-oss/gikondi-connect">
+    <img src="https://img.shields.io/badge/VIEW%20SOURCE-050505?style=for-the-badge&logo=github&logoColor=C4B5FD&labelColor=050505&color=8B5CF6" alt="View Gikondi Connect source code" />
   </a>
 </p>
 
-This project represents my approach to learning: identify a real problem, build a solution, test it, and keep improving it.
+This is the kind of work I enjoy: start with a real problem, build a practical solution, test it, and keep making it better.
 
-## 📊 GitHub at a Glance
+## <span>04 / GITHUB STATS</span>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=michaelmwangi8972-oss&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmwangi8972-oss&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=michaelmwangi8972-oss&show_icons=true&hide_border=true&rank_icon=github&bg_color=050505&title_color=38BDF8&text_color=C9D1D9&icon_color=8B5CF6&border_color=1F2937" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmwangi8972-oss&layout=compact&hide_border=true&bg_color=050505&title_color=38BDF8&text_color=C9D1D9&icon_color=8B5CF6&border_color=1F2937" alt="Most used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=michaelmwangi8972-oss&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=michaelmwangi8972-oss&background=050505&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-*These statistics depend on external services and may occasionally be unavailable. Language statistics reflect repository contents, not necessarily proficiency.*
+<p align="center"><sub>Stats are provided by external services and may occasionally be unavailable. Language statistics describe repository contents, not overall proficiency.</sub></p>
 
-## 🎯 What I'm Working Towards
+## <span>05 / CURRENT DIRECTION</span>
 
-- Becoming confident in Python and problem-solving.
-- Applying data science concepts to practical problems.
-- Building better, more reliable web applications.
-- Exploring AI and machine learning as my foundations improve.
-- Creating projects that can grow into useful products.
+- Get stronger at Python and core programming concepts.
+- Apply data science and analytics to practical problems.
+- Build reliable web applications and improve existing projects.
+- Explore AI and machine learning as my foundations grow.
+- Create useful projects that can evolve with feedback.
 
-## 🤝 Let's Connect
+## <span>06 / CONNECT</span>
 
 <p align="center">
   <a href="https://github.com/michaelmwangi8972-oss">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=050505&color=1F2937" alt="GitHub profile" />
   </a>
   <a href="https://www.linkedin.com/in/michael-mwangi-754626384">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+    <img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=050505&color=1F2937" alt="LinkedIn profile" />
   </a>
   <a href="mailto:michaelmwangi8972@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+    <img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=C4B5FD&labelColor=050505&color=1F2937" alt="Email" />
   </a>
 </p>
 
-- **LinkedIn:** [linkedin.com/in/michael-mwangi-754626384](https://www.linkedin.com/in/michael-mwangi-754626384)
-- **Email:** [michaelmwangi8972@gmail.com](mailto:michaelmwangi8972@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/michael-mwangi-754626384">LinkedIn</a>
+  &nbsp; • &nbsp;
+  <a href="mailto:michaelmwangi8972@gmail.com">michaelmwangi8972@gmail.com</a>
+</p>
 
 ---
 
 <p align="center">
-  <i>"The goal isn't just to learn technology. It's to use it to build something meaningful."</i>
+  <sub><code>LEARN</code> &nbsp; <code>BUILD</code> &nbsp; <code>ITERATE</code></sub>
   <br><br>
-  <img src="https://img.shields.io/badge/Status-Learning%20%7C%20Building%20%7C%20Growing-0EA5E9?style=flat-square" />
+  <i>“The goal isn't just to learn technology. It's to use it to build something meaningful.”</i>
 </p>
